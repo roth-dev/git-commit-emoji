@@ -18,40 +18,52 @@ git commit ":beetle: Fix add missing field"
 
 ## 📝 Standard Git Commit Type
 
-|   Commit Type                         | Emoji                                                     |
-|:--------------------------------------|:----------------------------------------------------------|
-| New feature                           | :sparkles: `:sparkles:`                                   |
-| Style                                 | :lipstick: `:lipstick:`                                   |
-| Refactor                              | :recycle: `:recycle:`                                     |
-| Test                                  | :rotating_light: `:rotating_light:`                       |
-| Make a test pass                      | :heavy_check_mark: `:heavy_check_mark:`                   |
-| Document                              | :book: `:book:`                                           |
-| Deploy                                | :rocket: `:rocket:`                                       |
-| Bug fix                               | :beetle: `:beetle:`                                       |
-| Work In Progress                      | :construction: `:construction:`                           |
-| Merge branches                        | :twisted_rightwards_arrows: `:twisted_rightwards_arrows:` |
-| Format/Structure related              | :art: `:art:`                                             |
-| Internationalization and localization | :globe_with_meridians: `:globe_with_meridians:`           |
-| Performance                           | :racehorse: `:racehorse:`                                 |
-| Remove code or files                  | :fire: `:fire:`                                           |
-| Security                              | :lock: `:lock:`                                           |
-| Move or renmame files or folders      | :truck: `:truck:`                                         |
-| Initial commit                        | :tada: `:tada:`                                           |
-| Version tag                           | :bookmark: `:bookmark:`                                   |
-| Add a dependency                      | :heavy_plus_sign: `:heavy_plus_sign:`                     |
-| Upgrade dependencies                  | :arrow_up: `:arrow_up:`                                   |
-| Downgrade dependencies                | :arrow_down: `:arrow_down:`                               |
-| Configure files                       | :wrench: `:wrench:`                                       |
-| Revert changes                        | :rewind: `:rewind:`                                       |
-| Code review changes                   | :ok_hand: `:ok_hand:`                                     |
-| Breaking changes                      | :boom: `:boom:`                                           |
-| Reverting changes                     | :rewind: `:rewind:`                                       |
-| Package.json                          | :package: `:package:`                                     |
-| Docker related                        | :green_heart: `:green_heart:`                             |
-| Continuous integration                | :whale: `:whale:`                                         |
-| Mac related                           | :apple: `:apple:`                                         |
-| Linux related                         | :penguin: `:penguin:`                                     |
-
+|   Commit type              | Emoji                                         |
+|:---------------------------|:----------------------------------------------|
+| Initial commit             | :tada: `:tada:`                               |
+| Version tag                | :bookmark: `:bookmark:`                       |
+| New feature                | :sparkles: `:sparkles:`                       |
+| Bugfix                     | :bug: `:bug:`                                 |
+| Metadata                   | :card_index: `:card_index:`                   |
+| Documentation              | :books: `:books:`                             |
+| Documenting source code    | :bulb: `:bulb:`                               |
+| Performance                | :racehorse: `:racehorse:`                     |
+| Cosmetic                   | :lipstick: `:lipstick:`                       |
+| Tests                      | :rotating_light: `:rotating_light:`           |
+| Adding a test              | :white_check_mark: `:white_check_mark:`       |
+| Make a test pass           | :heavy_check_mark: `:heavy_check_mark:`       |
+| General update             | :zap: `:zap:`                                 |
+| Improve format/structure   | :art: `:art:`                                 |
+| Refactor code              | :hammer: `:hammer:`                           |
+| Removing code/files        | :fire: `:fire:`                               |
+| Continuous Integration     | :green_heart: `:green_heart:`                 |
+| Security                   | :lock: `:lock:`                               |
+| Upgrading dependencies     | :arrow_up: `:arrow_up:`                       |
+| Downgrading dependencies   | :arrow_down: `:arrow_down:`                   |
+| Lint                       | :shirt: `:shirt:`                             |
+| Translation                | :alien: `:alien:`                             |
+| Text                       | :pencil: `:pencil:`                           |
+| Critical hotfix            | :ambulance: `:ambulance:`                     |
+| Deploying stuff            | :rocket: `:rocket:`                           |
+| Fixing on MacOS            | :apple: `:apple:`                             |
+| Fixing on Linux            | :penguin: `:penguin:`                         |
+| Fixing on Windows          | :checkered_flag: `:checkered_flag:`           |
+| Work in progress           | :construction:  `:construction:`              |
+| Adding CI build system     | :construction_worker: `:construction_worker:` |
+| Analytics or tracking code | :chart_with_upwards_trend: `:chart_with_upwards_trend:` |
+| Removing a dependency      | :heavy_minus_sign: `:heavy_minus_sign:`       |
+| Adding a dependency        | :heavy_plus_sign: `:heavy_plus_sign:`         |
+| Docker                     | :whale: `:whale:`                             |
+| Configuration files        | :wrench: `:wrench:`                           |
+| Package.json in JS         | :package: `:package:`                         |
+| Merging branches           | :twisted_rightwards_arrows: `:twisted_rightwards_arrows:` |
+| Bad code / need improv.    | :hankey: `:hankey:`                           |
+| Reverting changes          | :rewind: `:rewind:`                           |
+| Breaking changes           | :boom: `:boom:`                               |
+| Code review changes        | :ok_hand: `:ok_hand:`                         |
+| Accessibility              | :wheelchair: `:wheelchair:`                   |
+| Move/rename repository     | :truck: `:truck:`                             |
+| Other                      | [Be creative](http://www.emoji-cheat-sheet.com/)  |
 ## 😍 Inspiration
 
 Inspired by [dannyfritz/commit-message-emoji](https://github.com/dannyfritz/commit-message-emoji)
